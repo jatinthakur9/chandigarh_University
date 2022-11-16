@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11770579967",
+    "project_id": "chandigarhuniversity-cedbc",
+    "storage_bucket": "chandigarhuniversity-cedbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11770579967:android:4d02b27d9122dd5d8c35ca",
+        "android_client_info": {
+          "package_name": "com.example.chandigarh_university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11770579967-4rchuphf9dfn7i2gs0vjn08u8nejans9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCt9pJPpi0yGtQGXYPWeDJDJC03hm7bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11770579967-4rchuphf9dfn7i2gs0vjn08u8nejans9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
